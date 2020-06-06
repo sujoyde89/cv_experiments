@@ -1,0 +1,17 @@
+# data files
+dataset/
+
+# archived files
+archive/
+
+# opencv_exploration
+opencv_exploration
+
+# pyc files
+*.pyc
+
+# ipynb_checkpoints
+.ipynb_checkpoints/
+
+# output files
+*/output/*
