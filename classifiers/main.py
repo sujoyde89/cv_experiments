@@ -31,6 +31,7 @@ tf.random.set_seed(12)
 
 label_encoder = LabelEncoder()
 
+
 def train_model(model, opt, X_train, y_train_labels, X_test, y_test_labels):
 
 	print (model.name)
